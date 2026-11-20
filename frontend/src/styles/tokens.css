@@ -1,0 +1,53 @@
+:root {
+  /* Single restrained accent — deep campus green */
+  --brand-50: #f1f5f1;
+  --brand-100: #e4ece5;
+  --brand-200: #cbdccd;
+  --brand-500: #3d7558;
+  --brand-600: #2c5c46;
+  --brand-700: #244c3a;
+  --brand-800: #1d3e30;
+
+  /* Charcoal typography on a warm neutral canvas */
+  --ink: #171714;
+  --text: #3c3c36;
+  --muted: #6c6c63;
+  --soft: #9a9a90;
+
+  --bg: #fafaf8;
+  --surface: #ffffff;
+  --surface-muted: #f5f4ef;
+  --border: #e6e4dc;
+  --border-strong: #d5d2c8;
+
+  /* Status tones — muted, print-like */
+  --success-600: #2e7d5b;
+  --success-700: #246146;
+  --warning-600: #a2711f;
+  --warning-700: #835b17;
+  --danger-50: #fbf2ef;
+  --danger-600: #ae4a34;
+  --danger-700: #8c3826;
+  --info-600: #35648f;
+  --violet-600: #6a5a8b;
+  --teal-600: #3b7d7a;
+
+  /* Light sidebar */
+  --sidebar-bg: #ffffff;
+  --sidebar-bg-soft: #f6f5f1;
+  --sidebar-text: #6c6c63;
+  --sidebar-strong: #171714;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --radius-xl: 14px;
+
+  --shadow-sm: 0 1px 2px rgba(23, 23, 20, 0.04);
+  --shadow-md: 0 2px 8px rgba(23, 23, 20, 0.05);
+  --shadow-lg: 0 24px 60px -24px rgba(23, 23, 20, 0.28);
+
+  --font-sans: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --sidebar-width: 248px;
+  --topbar-height: 64px;
+}
